@@ -1,4 +1,6 @@
-# Data repository of the use case presented in the paper
+# From Big Data to Smart Data-centric Software Architectures for City Analytics: the case of the PELL Smart City Platform
+
+## Data repository
 
 ### Static Data
 Static data should be imported with a dbms, the data has been created using Mysql Community Server 8.0.19.
